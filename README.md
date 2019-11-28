@@ -1,2 +1,2 @@
 # bigTankSecondProject
-This project is basically for learning some cool features of css like display  flex(column and row) and the jquery 
+This project is basically for learning some cool features of css like display  flex(column and row) and the jquery all thanks to bigTankDoubleSouth.....
